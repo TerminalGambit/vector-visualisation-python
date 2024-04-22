@@ -1,4 +1,4 @@
-# first uses of vector visualisation in python 
+# first uses of vector visualisation in python
 
 ## first approaches with randomly generated vectors
 
