@@ -27,3 +27,6 @@ plt.ylim(-6, 6)
 # Show plot with grid
 plt.grid(True)
 plt.show()
+
+# Save the image as a PNG file
+plt.savefig('./first-approach/src/vector_field_simple.png')
